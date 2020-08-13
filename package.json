@@ -1,0 +1,27 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "RESTful API tutorial project (build a simple shop API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgowravaram/RESTful-API-nodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Divya Gowravaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgowravaram/RESTful-API-nodeJS/issues"
+  },
+  "homepage": "https://github.com/dgowravaram/RESTful-API-nodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
